@@ -3,7 +3,7 @@
 Which is based on [DACircularProgressView](https://github.com/danielamitay/DACircularProgress).
 
 ###Screen shot
-![](screensht.png)
+![](screenshot.png)
 
 ###Example code
 
